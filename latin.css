@@ -18,6 +18,9 @@
     height: 1100px;
    
   }
+h1#CABEZERA {
+    font-size: 10px;
+}
   select{
     background-color: black;
     color: orangered;
@@ -91,6 +94,7 @@ width: auto
     #texto1 , #texto2 , #libro1 , #libro2 , #master-class {
         display: none;
     }
+   
 label, select{
         font-size: 130%;
     }
