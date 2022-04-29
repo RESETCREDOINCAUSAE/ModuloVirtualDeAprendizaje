@@ -100,13 +100,5 @@ width: auto
         display: none;
     }
    
-label, select{
-        font-size: 130%;
-    }
-    a{
-        font-size: 200%;
-    }
-    button{
-        width: 100%;
-    }
+
   }
