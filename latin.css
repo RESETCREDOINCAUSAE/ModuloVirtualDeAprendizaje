@@ -1,6 +1,6 @@
 *{
     padding: none !important;
-    font-size: 10px !important ;
+   
 }
 .disclaimer{
     position:absolute;
@@ -92,6 +92,10 @@ background-color: rgb(117, 101, 101);
 width: auto
 ;}
 @media (max-width: 1000px) {
+    *{
+    padding: none !important;
+    font-size: 10px !important ;
+}
     #texto1 , #texto2 , #libro1 , #libro2 , #master-class {
         display: none;
     }
