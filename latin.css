@@ -91,7 +91,7 @@ width: auto
     #texto1 , #texto2 , #libro1 , #libro2 , #master-class {
         display: none;
     }
-h6,h3,h4,h2 label, select{
+label, select{
         font-size: 130%;
     }
     a{
